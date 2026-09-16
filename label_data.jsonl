@@ -1,0 +1,2 @@
+{"instruction": "Python里字符串的strip()函数作用是什么？", "input": "", "output": "strip()用来去掉字符串首尾的空格、换行符等空白符号，不会修改字符串中间内容。"}
+{"instruction": "Git的commit是干什么的？", "input": "", "output": "commit是把当前改动，在本地仓库保存一个版本快照，方便后续回溯代码。"}
